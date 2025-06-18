@@ -13,5 +13,17 @@ public class Lab040_Relational_Operators {
 //		!= -> Not equal
 		
 		// All of them will result always given boolean output;
+		
+		int a = 10;
+		int b = 30;
+		boolean c = a > b; //10 > 30
+		System.out.println(c);
+		
+		int age_Sahil = 33;
+		int age_Wahid = 34;
+		boolean result = age_Wahid >= age_Sahil;
+		System.out.println(result);
+		
+		// age_sahil > age_Wahid or age_sahil = age_Wahid
 	}
 }
