@@ -20,13 +20,11 @@ public class Lab068_To_Three_Max {
 		// n3
 		
 		// Step 3
-		
+		// 
 		int max = (n1 > n2) ? (n1 > n3) ? n1 : n3 : (n2 > n3) ? n2 : n3;
 		// A -> (n1 > n3) ? n1 : n3
 		// B -> (n2 > n3) ? n2 : n3		
 		System.out.println(max);
-		
-		
 		
 	}
 }
