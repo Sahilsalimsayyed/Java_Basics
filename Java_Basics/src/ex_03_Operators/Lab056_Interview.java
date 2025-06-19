@@ -9,8 +9,10 @@ public class Lab056_Interview {
 		System.out.println(c+s);
 		// char with other act differently    
 		// char if it is alone then it will act as character
+		System.out.println(c+s);
 		System.out.println(c);
 		System.out.println(c+c);
+		System.out.println(c+s1);
 
 	}
 }
